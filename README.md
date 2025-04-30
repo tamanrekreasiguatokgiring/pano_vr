@@ -1,2 +1,0 @@
-# pano_vr
-project
